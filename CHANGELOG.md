@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.2.0](https://github.com/terraform-aws-modules/terraform-aws-efs/compare/v2.1.0...v2.2.0) (2026-02-12)
+
+### Features
+
+* Add region argument to resources ([#52](https://github.com/terraform-aws-modules/terraform-aws-efs/issues/52)) ([1fdf6cb](https://github.com/terraform-aws-modules/terraform-aws-efs/commit/1fdf6cb366d657147256db6b625520fc794f6968))
+
 ## [2.1.0](https://github.com/terraform-aws-modules/terraform-aws-efs/compare/v2.0.0...v2.1.0) (2026-01-08)
 
 ### Features
